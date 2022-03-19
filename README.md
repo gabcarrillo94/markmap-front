@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Create a .env file
+### `REACT_APP_GEOJSON_URL=YOUR_GEOJSON_URL`
+### `REACT_APP_API_KEY=YOUR_API_KEY`
+
 ## Available Scripts
 
 In the project directory, you can run:
